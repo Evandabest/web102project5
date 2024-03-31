@@ -43,6 +43,8 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Working with weather API
+* Error with import Api Key
 
 ## License
 
